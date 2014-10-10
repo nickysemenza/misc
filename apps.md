@@ -4,8 +4,11 @@
 
 * [Brew](http://brew.sh/)
 #Command Line Tools
-- [fish](http://fishshell.com/)
-- [htop](http://hisham.hm/htop/)
+	
+Tool | What it does | 
+------------ | ------------- 
+[htop](http://hisham.hm/htop/) | Displays processes nicely
+[ngrok](https://ngrok.com/) | Local Tunnel including port inspection
 
 #Databases
 ##MySQL
@@ -20,6 +23,7 @@
 **[Sublime Text](http://www.sublimetext.com/)**
 ##Python
 * Pycharm
+
 ##PHP
 * PHPStorm
 
