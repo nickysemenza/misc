@@ -18,6 +18,9 @@ Tool | What it does |
 ##Redis
 * [Redis Desktop Manager](http://redisdesktop.com/)
 
+##Firebase
+* [Firebase](https://www.firebase.com/)
+
 #IDEs/ Editors
 
 **[Sublime Text](http://www.sublimetext.com/)**
